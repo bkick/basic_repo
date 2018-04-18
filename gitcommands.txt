@@ -1,0 +1,13 @@
+cd desktop
+mkdir gittest
+cd gittest
+git init
+copy NUL index.html
+copy NUL aboutMe.txt
+copy NUL styles.css
+git add .
+git commit -m "initial commit"
+git add
+git commit -m "added favorite move to aboutMe"
+git log
+git reset 7319b44 --hard

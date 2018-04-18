@@ -1,0 +1,11 @@
+create repo on github
+mkdir basic repo
+git init
+copy NUL readme.txt
+git remote add origin <url>
+git add .
+git commit
+git push u- origin master
+git add .
+git commit -m "swiggity swag"
+git push u- origin master

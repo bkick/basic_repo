@@ -1,0 +1,49 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 1000px;
+ background-color: silver;
+ margin: 0px auto;
+ height: auto;
+ padding: 20px;
+}
+#header{
+ height: 140px;
+ margin: 15px;
+ background-color: green;
+}
+#navigation{
+ height: 300px;
+ width: 200px;
+ background-color: blue;
+ margin: 15px;
+ display: inline-block;
+ vertical-align: top;
+}
+#main_content{
+ height: 400px;
+ width: 735px;
+ background-color: red;
+ display: inline-block;
+ margin: 15px;
+}
+.subcontents{
+ height: 200px;
+ width: 200px;
+ margin: 12px;
+ background-color: yellow;
+ display: inline-block;
+}
+#advertisement{
+ height: 120px;
+ width: 660px;
+ margin: 8px;
+ background-color: purple;
+}
+Do not spend longer than 2-3 hours on this assignment.
+
+START WORKING ON THIS
+Privacy Policy To report a mistake, highlight the selection you believe is in error.  

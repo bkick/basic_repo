@@ -1,0 +1,10 @@
+created a github repository 
+opened terminal
+mkdir gitrepoassignment
+cd gitrepoassignment
+git init
+copy NUL readme.md
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/bkick/githubrepoassignment.git
+git push -u origin master
